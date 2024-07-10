@@ -26,10 +26,8 @@ public class lexographicallysort {
                 sb.append(str3).append(" ");
             }
 
-
         }
 
         System.out.println(sb);
-
     }
 }
